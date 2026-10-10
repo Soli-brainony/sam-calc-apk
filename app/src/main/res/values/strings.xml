@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SciGraph</string>
+    <string name="tab_calculator">Calculator</string>
+    <string name="tab_graph">Graphing</string>
+    <string name="tab_solver">Solver</string>
+    <string name="tab_history">History</string>
+    <string name="deg_mode">DEG</string>
+    <string name="rad_mode">RAD</string>
+    <string name="complex_mode">CMPLX</string>
+    <string name="real_mode">REAL</string>
+</resources>

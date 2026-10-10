@@ -1,0 +1,6 @@
+{
+  "name": "SciGraph",
+  "description": "Advanced scientific calculator with complex number equation evaluation, interactive 2D function graphing, and polynomial solver.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
